@@ -22,16 +22,19 @@ Target Variable: Class/ASD (Yes/No)
 
 🔍 **Methodology**
 
-1. Data Preprocessing
-   Handling missing values
-   Encoding categorical variables
+1. Data Preprocessing:
+   
+   Handling missing values,
+   Encoding categorical variables,
    Feature selection
 
-2. Model Training
-   Split data into training and test sets
-   Try different classifiers (Logistic Regression, Random Forest)
+2. Model Training:
+   
+   Split data into training and test sets,
+   Try different classifiers (Logistic Regression, Random Forest),
    Hyperparameter tuning
 
 3. Evaluation
-   Accuracy, Precision, Recall, F1-Score
+   
+   Accuracy, Precision, Recall, F1-Score,
    Confusion Matrix
